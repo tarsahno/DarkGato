@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DarkGato
+- 👀 I’m interested in learn more coding
+- Just very big fan of linux
